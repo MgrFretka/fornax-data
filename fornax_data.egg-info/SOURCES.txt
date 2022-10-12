@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+fornax_data.egg-info/PKG-INFO
+fornax_data.egg-info/SOURCES.txt
+fornax_data.egg-info/dependency_links.txt
+fornax_data.egg-info/requires.txt
+fornax_data.egg-info/top_level.txt
